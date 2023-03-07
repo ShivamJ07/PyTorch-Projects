@@ -5,4 +5,4 @@
   - Meant to be a more challenging alternative to the MNIST dataset
 - Accuracy:  ~91% on test set
 - Model: Convolutional Neural Network 
-- Data Augmentation: Resized images to 24 by 24 pixels, normalized them using calculated dataset mean and std, added random  
+- Data Augmentation: Resized images to 24 by 24 pixels, normalized them using calculated dataset mean and std, added random horizontal flip
